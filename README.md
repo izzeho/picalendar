@@ -1,1 +1,1 @@
-# picalendar
+Base release of Pi Calendar
